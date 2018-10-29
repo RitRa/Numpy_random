@@ -11,7 +11,7 @@ Distributions.ipynb
 3. Explain the use and purpose of at least five “Distributions” functions.
 
 
- [seeds](seeds.ipynb)
+ [seeds](Seeds.ipynb)
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 
