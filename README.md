@@ -2,7 +2,7 @@
 
 ## An invesigation into the NumPy.Random package
 
-numpy-random.ipynb
+
 [Numpy Random](numpy-random.ipynb)
 
 1. Explain the overall purpose of the package.
