@@ -26,7 +26,7 @@
 #### Distributions
 
 - np.random.uniform
-- np.random.multinomial
+- np.random.binomial
 - np.random.normal
 - np.random.triangular
 - np.random.chisquare
@@ -45,7 +45,7 @@
 - [x] “Permutations” functions.
 - []  Explain the use and purpose of at least five “Distributions” functions.
 - [x]  np.random.uniform
-- []  np.random.multinomial
+- []  np.random.binomial
 - [x]  np.random.normal
 - [x]  np.random.triangular
 - []  np.random.chisquare
