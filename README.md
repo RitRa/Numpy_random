@@ -47,8 +47,9 @@
 - [x]  np.random.uniform
 - []  np.random.binomial
 - [x]  np.random.normal
-- [x]  np.random.triangular
+- []  np.random.triangular - update color palette and add labels to graphs
 - []  np.random.chisquare
+- []  add labels to graphs
 
 - []  Explain the use of seeds in generating pseudorandom numbers.
 
