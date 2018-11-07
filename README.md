@@ -45,11 +45,11 @@
 - [x] “Permutations” functions.
 - []  Explain the use and purpose of at least five “Distributions” functions.
 - [x]  np.random.uniform
-- []  np.random.binomial
+- [x]  np.random.binomial
 - [x]  np.random.normal
-- []  np.random.triangular - update color palette and add labels to graphs
-- []  np.random.chisquare
-- []  add labels to graphs
+- [x]  np.random.triangular
+- [x]  np.random.chisquare
+
 
 - []  Explain the use of seeds in generating pseudorandom numbers.
 
