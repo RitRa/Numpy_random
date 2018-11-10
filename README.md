@@ -48,7 +48,7 @@
 - [x]  np.random.binomial
 - [x]  np.random.normal
 - [x]  np.random.triangular
-- [x]  np.random.chisquare
+- []  np.random.chisquare
 
 
 - []  Explain the use of seeds in generating pseudorandom numbers.
